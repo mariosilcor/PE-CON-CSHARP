@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\obj\Debug\netcoreapp3.1\ProgramacionTarea3.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\obj\Debug\netcoreapp3.1\ProgramacionTarea3.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\obj\Debug\netcoreapp3.1\ProgramacionTarea3.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\obj\Debug\netcoreapp3.1\ProgramacionTarea3.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\bin\Debug\netcoreapp3.1\ProgramacionTarea3.exe
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\bin\Debug\netcoreapp3.1\ProgramacionTarea3.deps.json
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\bin\Debug\netcoreapp3.1\ProgramacionTarea3.runtimeconfig.json
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\bin\Debug\netcoreapp3.1\ProgramacionTarea3.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\bin\Debug\netcoreapp3.1\ProgramacionTarea3.dll
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\bin\Debug\netcoreapp3.1\ProgramacionTarea3.pdb
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\obj\Debug\netcoreapp3.1\ProgramacionTarea3.dll
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\obj\Debug\netcoreapp3.1\ProgramacionTarea3.pdb
+C:\Users\Eduardo\source\repos\ProgramacionTarea3\obj\Debug\netcoreapp3.1\ProgramacionTarea3.genruntimeconfig.cache

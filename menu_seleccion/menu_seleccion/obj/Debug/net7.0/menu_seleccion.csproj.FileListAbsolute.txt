@@ -1,0 +1,15 @@
+/Users/micke/Projects/menu_seleccion/menu_seleccion/bin/Debug/net7.0/menu_seleccion
+/Users/micke/Projects/menu_seleccion/menu_seleccion/bin/Debug/net7.0/menu_seleccion.deps.json
+/Users/micke/Projects/menu_seleccion/menu_seleccion/bin/Debug/net7.0/menu_seleccion.runtimeconfig.json
+/Users/micke/Projects/menu_seleccion/menu_seleccion/bin/Debug/net7.0/menu_seleccion.dll
+/Users/micke/Projects/menu_seleccion/menu_seleccion/bin/Debug/net7.0/menu_seleccion.pdb
+/Users/micke/Projects/menu_seleccion/menu_seleccion/obj/Debug/net7.0/menu_seleccion.csproj.AssemblyReference.cache
+/Users/micke/Projects/menu_seleccion/menu_seleccion/obj/Debug/net7.0/menu_seleccion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/micke/Projects/menu_seleccion/menu_seleccion/obj/Debug/net7.0/menu_seleccion.AssemblyInfoInputs.cache
+/Users/micke/Projects/menu_seleccion/menu_seleccion/obj/Debug/net7.0/menu_seleccion.AssemblyInfo.cs
+/Users/micke/Projects/menu_seleccion/menu_seleccion/obj/Debug/net7.0/menu_seleccion.csproj.CoreCompileInputs.cache
+/Users/micke/Projects/menu_seleccion/menu_seleccion/obj/Debug/net7.0/menu_seleccion.dll
+/Users/micke/Projects/menu_seleccion/menu_seleccion/obj/Debug/net7.0/refint/menu_seleccion.dll
+/Users/micke/Projects/menu_seleccion/menu_seleccion/obj/Debug/net7.0/menu_seleccion.pdb
+/Users/micke/Projects/menu_seleccion/menu_seleccion/obj/Debug/net7.0/menu_seleccion.genruntimeconfig.cache
+/Users/micke/Projects/menu_seleccion/menu_seleccion/obj/Debug/net7.0/ref/menu_seleccion.dll

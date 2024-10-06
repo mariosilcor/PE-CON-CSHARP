@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AA1770FE-9F64-42CD-BFB3-AB083AA06F5A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.menu__seleccion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="menu_seleccion/area.cs">
+    <Files>
+      <File FileName="menu_seleccion/menu.cs" Line="21" Column="37" />
+      <File FileName="menu_seleccion/conversion.cs" Line="14" Column="57" />
+      <File FileName="menu_seleccion/contador.cs" Line="9" Column="34" />
+      <File FileName="menu_seleccion/area.cs" Line="15" Column="89" />
+      <File FileName="menu_seleccion/programa.cs" Line="8" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="menu_seleccion" expanded="True">
+            <Node name="menu_seleccion" expanded="True">
+              <Node name="area.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

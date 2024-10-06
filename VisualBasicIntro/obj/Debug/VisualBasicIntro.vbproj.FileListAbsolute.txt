@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\VisualBasicIntro\obj\Debug\VisualBasicIntro.vbproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\VisualBasicIntro\obj\Debug\VisualBasicIntro.Resources.resources
+C:\Users\Eduardo\source\repos\VisualBasicIntro\obj\Debug\VisualBasicIntro.vbproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\VisualBasicIntro\obj\Debug\VisualBasicIntro.vbproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\VisualBasicIntro\bin\Debug\VisualBasicIntro.exe.config
+C:\Users\Eduardo\source\repos\VisualBasicIntro\bin\Debug\VisualBasicIntro.exe
+C:\Users\Eduardo\source\repos\VisualBasicIntro\bin\Debug\VisualBasicIntro.pdb
+C:\Users\Eduardo\source\repos\VisualBasicIntro\bin\Debug\VisualBasicIntro.xml
+C:\Users\Eduardo\source\repos\VisualBasicIntro\obj\Debug\VisualBasicIntro.exe
+C:\Users\Eduardo\source\repos\VisualBasicIntro\obj\Debug\VisualBasicIntro.xml
+C:\Users\Eduardo\source\repos\VisualBasicIntro\obj\Debug\VisualBasicIntro.pdb

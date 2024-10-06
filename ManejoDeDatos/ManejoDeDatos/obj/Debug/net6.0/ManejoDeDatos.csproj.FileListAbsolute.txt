@@ -1,0 +1,15 @@
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\bin\Debug\net6.0\ManejoDeDatos.exe
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\bin\Debug\net6.0\ManejoDeDatos.deps.json
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\bin\Debug\net6.0\ManejoDeDatos.runtimeconfig.json
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\bin\Debug\net6.0\ManejoDeDatos.dll
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\bin\Debug\net6.0\ManejoDeDatos.pdb
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\obj\Debug\net6.0\ManejoDeDatos.csproj.AssemblyReference.cache
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\obj\Debug\net6.0\ManejoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\obj\Debug\net6.0\ManejoDeDatos.AssemblyInfoInputs.cache
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\obj\Debug\net6.0\ManejoDeDatos.AssemblyInfo.cs
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\obj\Debug\net6.0\ManejoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\obj\Debug\net6.0\ManejoDeDatos.dll
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\obj\Debug\net6.0\refint\ManejoDeDatos.dll
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\obj\Debug\net6.0\ManejoDeDatos.pdb
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\obj\Debug\net6.0\ManejoDeDatos.genruntimeconfig.cache
+C:\Users\ostal\OneDrive\Escritorio\Universidad\Decimo Cuatrimestre\Ambientes de Desarrollo y Frameworks\ManejoDeDatos\ManejoDeDatos\obj\Debug\net6.0\ref\ManejoDeDatos.dll

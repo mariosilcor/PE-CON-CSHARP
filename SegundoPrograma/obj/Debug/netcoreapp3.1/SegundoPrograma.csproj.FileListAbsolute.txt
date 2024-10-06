@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\SegundoPrograma\obj\Debug\netcoreapp3.1\SegundoPrograma.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\SegundoPrograma\obj\Debug\netcoreapp3.1\SegundoPrograma.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\SegundoPrograma\obj\Debug\netcoreapp3.1\SegundoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\SegundoPrograma\obj\Debug\netcoreapp3.1\SegundoPrograma.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\SegundoPrograma\bin\Debug\netcoreapp3.1\SegundoPrograma.exe
+C:\Users\Eduardo\source\repos\SegundoPrograma\bin\Debug\netcoreapp3.1\SegundoPrograma.deps.json
+C:\Users\Eduardo\source\repos\SegundoPrograma\bin\Debug\netcoreapp3.1\SegundoPrograma.runtimeconfig.json
+C:\Users\Eduardo\source\repos\SegundoPrograma\bin\Debug\netcoreapp3.1\SegundoPrograma.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\SegundoPrograma\bin\Debug\netcoreapp3.1\SegundoPrograma.dll
+C:\Users\Eduardo\source\repos\SegundoPrograma\bin\Debug\netcoreapp3.1\SegundoPrograma.pdb
+C:\Users\Eduardo\source\repos\SegundoPrograma\obj\Debug\netcoreapp3.1\SegundoPrograma.dll
+C:\Users\Eduardo\source\repos\SegundoPrograma\obj\Debug\netcoreapp3.1\SegundoPrograma.pdb
+C:\Users\Eduardo\source\repos\SegundoPrograma\obj\Debug\netcoreapp3.1\SegundoPrograma.genruntimeconfig.cache

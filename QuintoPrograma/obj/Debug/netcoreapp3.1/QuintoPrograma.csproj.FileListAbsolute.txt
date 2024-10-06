@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\QuintoPrograma\bin\Debug\netcoreapp3.1\QuintoPrograma.exe
+C:\Users\Eduardo\source\repos\QuintoPrograma\bin\Debug\netcoreapp3.1\QuintoPrograma.deps.json
+C:\Users\Eduardo\source\repos\QuintoPrograma\bin\Debug\netcoreapp3.1\QuintoPrograma.runtimeconfig.json
+C:\Users\Eduardo\source\repos\QuintoPrograma\bin\Debug\netcoreapp3.1\QuintoPrograma.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\QuintoPrograma\bin\Debug\netcoreapp3.1\QuintoPrograma.dll
+C:\Users\Eduardo\source\repos\QuintoPrograma\bin\Debug\netcoreapp3.1\QuintoPrograma.pdb
+C:\Users\Eduardo\source\repos\QuintoPrograma\obj\Debug\netcoreapp3.1\QuintoPrograma.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\QuintoPrograma\obj\Debug\netcoreapp3.1\QuintoPrograma.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\QuintoPrograma\obj\Debug\netcoreapp3.1\QuintoPrograma.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\QuintoPrograma\obj\Debug\netcoreapp3.1\QuintoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\QuintoPrograma\obj\Debug\netcoreapp3.1\QuintoPrograma.dll
+C:\Users\Eduardo\source\repos\QuintoPrograma\obj\Debug\netcoreapp3.1\QuintoPrograma.pdb
+C:\Users\Eduardo\source\repos\QuintoPrograma\obj\Debug\netcoreapp3.1\QuintoPrograma.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\bin\Debug\netcoreapp3.1\ProgramacionTarea4.exe
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\bin\Debug\netcoreapp3.1\ProgramacionTarea4.deps.json
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\bin\Debug\netcoreapp3.1\ProgramacionTarea4.runtimeconfig.json
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\bin\Debug\netcoreapp3.1\ProgramacionTarea4.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\bin\Debug\netcoreapp3.1\ProgramacionTarea4.dll
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\bin\Debug\netcoreapp3.1\ProgramacionTarea4.pdb
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\obj\Debug\netcoreapp3.1\ProgramacionTarea4.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\obj\Debug\netcoreapp3.1\ProgramacionTarea4.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\obj\Debug\netcoreapp3.1\ProgramacionTarea4.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\obj\Debug\netcoreapp3.1\ProgramacionTarea4.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\obj\Debug\netcoreapp3.1\ProgramacionTarea4.dll
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\obj\Debug\netcoreapp3.1\ProgramacionTarea4.pdb
+C:\Users\Eduardo\source\repos\ProgramacionTarea4\obj\Debug\netcoreapp3.1\ProgramacionTarea4.genruntimeconfig.cache

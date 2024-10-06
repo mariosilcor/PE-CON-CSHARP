@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\bin\Debug\netcoreapp3.1\Algoritmos_Clase3.exe
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\bin\Debug\netcoreapp3.1\Algoritmos_Clase3.deps.json
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\bin\Debug\netcoreapp3.1\Algoritmos_Clase3.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\bin\Debug\netcoreapp3.1\Algoritmos_Clase3.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\bin\Debug\netcoreapp3.1\Algoritmos_Clase3.dll
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\bin\Debug\netcoreapp3.1\Algoritmos_Clase3.pdb
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\obj\Debug\netcoreapp3.1\Algoritmos_Clase3.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\obj\Debug\netcoreapp3.1\Algoritmos_Clase3.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\obj\Debug\netcoreapp3.1\Algoritmos_Clase3.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\obj\Debug\netcoreapp3.1\Algoritmos_Clase3.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\obj\Debug\netcoreapp3.1\Algoritmos_Clase3.dll
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\obj\Debug\netcoreapp3.1\Algoritmos_Clase3.pdb
+C:\Users\Eduardo\source\repos\Algoritmos_Clase3\obj\Debug\netcoreapp3.1\Algoritmos_Clase3.genruntimeconfig.cache

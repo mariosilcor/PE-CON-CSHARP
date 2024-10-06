@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\CuartoPrograma\bin\Debug\netcoreapp3.1\CuartoPrograma.exe
+C:\Users\Eduardo\source\repos\CuartoPrograma\bin\Debug\netcoreapp3.1\CuartoPrograma.deps.json
+C:\Users\Eduardo\source\repos\CuartoPrograma\bin\Debug\netcoreapp3.1\CuartoPrograma.runtimeconfig.json
+C:\Users\Eduardo\source\repos\CuartoPrograma\bin\Debug\netcoreapp3.1\CuartoPrograma.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\CuartoPrograma\bin\Debug\netcoreapp3.1\CuartoPrograma.dll
+C:\Users\Eduardo\source\repos\CuartoPrograma\bin\Debug\netcoreapp3.1\CuartoPrograma.pdb
+C:\Users\Eduardo\source\repos\CuartoPrograma\obj\Debug\netcoreapp3.1\CuartoPrograma.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\CuartoPrograma\obj\Debug\netcoreapp3.1\CuartoPrograma.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\CuartoPrograma\obj\Debug\netcoreapp3.1\CuartoPrograma.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\CuartoPrograma\obj\Debug\netcoreapp3.1\CuartoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\CuartoPrograma\obj\Debug\netcoreapp3.1\CuartoPrograma.dll
+C:\Users\Eduardo\source\repos\CuartoPrograma\obj\Debug\netcoreapp3.1\CuartoPrograma.pdb
+C:\Users\Eduardo\source\repos\CuartoPrograma\obj\Debug\netcoreapp3.1\CuartoPrograma.genruntimeconfig.cache

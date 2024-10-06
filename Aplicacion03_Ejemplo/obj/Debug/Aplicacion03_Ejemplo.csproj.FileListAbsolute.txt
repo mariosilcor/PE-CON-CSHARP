@@ -1,0 +1,10 @@
+C:\Users\Eduardo\source\repos\Aplicacion03_Ejemplo\bin\Debug\Aplicacion03_Ejemplo.exe.config
+C:\Users\Eduardo\source\repos\Aplicacion03_Ejemplo\bin\Debug\Aplicacion03_Ejemplo.exe
+C:\Users\Eduardo\source\repos\Aplicacion03_Ejemplo\bin\Debug\Aplicacion03_Ejemplo.pdb
+C:\Users\Eduardo\source\repos\Aplicacion03_Ejemplo\obj\Debug\Aplicacion03_Ejemplo.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Aplicacion03_Ejemplo\obj\Debug\Aplicacion03_Ejemplo.Form1.resources
+C:\Users\Eduardo\source\repos\Aplicacion03_Ejemplo\obj\Debug\Aplicacion03_Ejemplo.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Aplicacion03_Ejemplo\obj\Debug\Aplicacion03_Ejemplo.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Aplicacion03_Ejemplo\obj\Debug\Aplicacion03_Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Aplicacion03_Ejemplo\obj\Debug\Aplicacion03_Ejemplo.exe
+C:\Users\Eduardo\source\repos\Aplicacion03_Ejemplo\obj\Debug\Aplicacion03_Ejemplo.pdb

@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\bin\Debug\netcoreapp3.1\ProgramacionTarea5.exe
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\bin\Debug\netcoreapp3.1\ProgramacionTarea5.deps.json
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\bin\Debug\netcoreapp3.1\ProgramacionTarea5.runtimeconfig.json
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\bin\Debug\netcoreapp3.1\ProgramacionTarea5.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\bin\Debug\netcoreapp3.1\ProgramacionTarea5.dll
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\bin\Debug\netcoreapp3.1\ProgramacionTarea5.pdb
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\obj\Debug\netcoreapp3.1\ProgramacionTarea5.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\obj\Debug\netcoreapp3.1\ProgramacionTarea5.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\obj\Debug\netcoreapp3.1\ProgramacionTarea5.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\obj\Debug\netcoreapp3.1\ProgramacionTarea5.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\obj\Debug\netcoreapp3.1\ProgramacionTarea5.dll
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\obj\Debug\netcoreapp3.1\ProgramacionTarea5.pdb
+C:\Users\Eduardo\source\repos\ProgramacionTarea5\obj\Debug\netcoreapp3.1\ProgramacionTarea5.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\Clase_dos\bin\Debug\netcoreapp3.1\Clase_dos.exe
+C:\Users\Eduardo\source\repos\Clase_dos\bin\Debug\netcoreapp3.1\Clase_dos.deps.json
+C:\Users\Eduardo\source\repos\Clase_dos\bin\Debug\netcoreapp3.1\Clase_dos.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Clase_dos\bin\Debug\netcoreapp3.1\Clase_dos.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Clase_dos\bin\Debug\netcoreapp3.1\Clase_dos.dll
+C:\Users\Eduardo\source\repos\Clase_dos\bin\Debug\netcoreapp3.1\Clase_dos.pdb
+C:\Users\Eduardo\source\repos\Clase_dos\obj\Debug\netcoreapp3.1\Clase_dos.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Clase_dos\obj\Debug\netcoreapp3.1\Clase_dos.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Clase_dos\obj\Debug\netcoreapp3.1\Clase_dos.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Clase_dos\obj\Debug\netcoreapp3.1\Clase_dos.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Clase_dos\obj\Debug\netcoreapp3.1\Clase_dos.dll
+C:\Users\Eduardo\source\repos\Clase_dos\obj\Debug\netcoreapp3.1\Clase_dos.pdb
+C:\Users\Eduardo\source\repos\Clase_dos\obj\Debug\netcoreapp3.1\Clase_dos.genruntimeconfig.cache

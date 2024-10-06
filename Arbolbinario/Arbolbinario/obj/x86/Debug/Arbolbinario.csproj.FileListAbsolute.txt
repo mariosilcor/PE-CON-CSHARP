@@ -1,0 +1,14 @@
+C:\Users\erodriar\AppData\Local\Temporary Projects\Arbolbinario\bin\Debug\Arbolbinario.exe
+C:\Users\erodriar\AppData\Local\Temporary Projects\Arbolbinario\bin\Debug\Arbolbinario.pdb
+C:\Users\erodriar\AppData\Local\Temporary Projects\Arbolbinario\obj\x86\Debug\Arbolbinario.exe
+C:\Users\erodriar\AppData\Local\Temporary Projects\Arbolbinario\obj\x86\Debug\Arbolbinario.pdb
+C:\Users\erodriar\Documents\UTEL\Cursos para mayo 2014\Algoritmos y estructuras de datos\Unidad 4\Arbol\Arbolbinario\Arbolbinario\obj\x86\Debug\Arbolbinario.exe
+C:\Users\erodriar\Documents\UTEL\Cursos para mayo 2014\Algoritmos y estructuras de datos\Unidad 4\Arbol\Arbolbinario\Arbolbinario\obj\x86\Debug\Arbolbinario.pdb
+C:\Users\erodriar\Documents\UTEL\Cursos para mayo 2014\Algoritmos y estructuras de datos\Unidad 4\Arbol\Arbolbinario\Arbolbinario\bin\Debug\Arbolbinario.exe
+C:\Users\erodriar\Documents\UTEL\Cursos para mayo 2014\Algoritmos y estructuras de datos\Unidad 4\Arbol\Arbolbinario\Arbolbinario\bin\Debug\Arbolbinario.pdb
+C:\Users\Eduardo\source\repos\Arbolbinario\Arbolbinario\bin\Debug\Arbolbinario.exe
+C:\Users\Eduardo\source\repos\Arbolbinario\Arbolbinario\bin\Debug\Arbolbinario.pdb
+C:\Users\Eduardo\source\repos\Arbolbinario\Arbolbinario\obj\x86\Debug\Arbolbinario.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Arbolbinario\Arbolbinario\obj\x86\Debug\Arbolbinario.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Arbolbinario\Arbolbinario\obj\x86\Debug\Arbolbinario.exe
+C:\Users\Eduardo\source\repos\Arbolbinario\Arbolbinario\obj\x86\Debug\Arbolbinario.pdb

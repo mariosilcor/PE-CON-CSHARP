@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ambientes_de_desarrollo_y_frameworks_Tarea03/1.0.0": {
+        "runtime": {
+          "Ambientes_de_desarrollo_y_frameworks_Tarea03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ambientes_de_desarrollo_y_frameworks_Tarea03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

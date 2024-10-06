@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\TercerPrograma\bin\Debug\netcoreapp3.1\TercerPrograma.exe
+C:\Users\Eduardo\source\repos\TercerPrograma\bin\Debug\netcoreapp3.1\TercerPrograma.deps.json
+C:\Users\Eduardo\source\repos\TercerPrograma\bin\Debug\netcoreapp3.1\TercerPrograma.runtimeconfig.json
+C:\Users\Eduardo\source\repos\TercerPrograma\bin\Debug\netcoreapp3.1\TercerPrograma.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\TercerPrograma\bin\Debug\netcoreapp3.1\TercerPrograma.dll
+C:\Users\Eduardo\source\repos\TercerPrograma\bin\Debug\netcoreapp3.1\TercerPrograma.pdb
+C:\Users\Eduardo\source\repos\TercerPrograma\obj\Debug\netcoreapp3.1\TercerPrograma.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\TercerPrograma\obj\Debug\netcoreapp3.1\TercerPrograma.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\TercerPrograma\obj\Debug\netcoreapp3.1\TercerPrograma.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\TercerPrograma\obj\Debug\netcoreapp3.1\TercerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\TercerPrograma\obj\Debug\netcoreapp3.1\TercerPrograma.dll
+C:\Users\Eduardo\source\repos\TercerPrograma\obj\Debug\netcoreapp3.1\TercerPrograma.pdb
+C:\Users\Eduardo\source\repos\TercerPrograma\obj\Debug\netcoreapp3.1\TercerPrograma.genruntimeconfig.cache

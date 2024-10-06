@@ -1,0 +1,14 @@
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\bin\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.exe
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\bin\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.deps.json
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\bin\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\bin\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\bin\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.dll
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\bin\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.pdb
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\obj\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\obj\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\obj\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\obj\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\obj\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\obj\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.dll
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\obj\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.pdb
+C:\Users\Eduardo\source\repos\Aplicacion02_Ejemplo\obj\Debug\netcoreapp3.1\Aplicacion02_Ejemplo.genruntimeconfig.cache
